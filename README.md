@@ -24,7 +24,7 @@ Steps to follow to run on local machine:
 
 2. open visual studio and open the downloaded folder there.
 
-3. go to terminal and do git init to install all used depenedencies that were used in the app.
+3. go to terminal and do npm i to install all used depenedencies that were used in the app.
 
 4. Now go to .env file and fill all the required details there. I have wrote down their what you need to fill which is password, username and db name.
 
